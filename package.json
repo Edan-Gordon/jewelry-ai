@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "@radix-ui/react-progress": "^1.1.2",
+    "@radix-ui/react-tooltip": "^1.1.8",
     "framer-motion": "^12.4.11",
     "next": "latest",
     "react": "latest",
